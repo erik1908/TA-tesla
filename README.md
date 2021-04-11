@@ -9,5 +9,9 @@
 
 
 ### Screenies
-![Scr. Shot 1](/static/screen1.png?raw=true "Screenshot 1")
-![Scr. Shot 1](/static/screen2.png?raw=true "Screenshot 1")
+Data:
+![Scr. Shot 1](/static/data2.png?raw=true "Data types")
+![Scr. Shot 1](/static/data1.png?raw=true "Charging data")
+Dashboards:
+![Scr. Shot 1](/static/screen1.png?raw=true "Dashboard")
+![Scr. Shot 1](/static/screen2.png?raw=true "Dashboard")
