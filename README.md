@@ -1,4 +1,13 @@
 # TA-Tesla
+This TA uses teslajson to retrieve the following data from your car into your Splunk
+- Charger State
+- Climate State
+- Drive State
+- GUI Settings
+- Vehicle configuration
+- Vehicle state
+
+Feel free to contact me if you got any questions about this TA
 
 ### Dependencies
 - install teslajson use pip via the command :pip install teslajson
